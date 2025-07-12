@@ -1,2 +1,2 @@
-# CaleGitHubGusti
+# ClaseGitHubGusti
 Mi primer repositorio
